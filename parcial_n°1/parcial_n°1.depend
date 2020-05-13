@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589382570 source:c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+
+1589382752 c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\bici.h
+
+1589382315 source:c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+
