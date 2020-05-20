@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1589781423 source:c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"trabajo.h"
+	"bici.h"
+
+1589800359 c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\bici.h
+
+1589786023 source:c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+
+1589777145 source:c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589778122 c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\utn.h
+
+1589778391 c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\trabajo.h
+	"bici.h"
+
+1589786367 source:c:\users\gabri\documents\trabajo n2 practico lab1\parcial_n°1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"trabajo.h"
+	"utn.h"
+
+1589932673 source:c:\users\lauta\desktop\parcial_n°1 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"trabajo.h"
+	"bici.h"
+
+1589932691 c:\users\lauta\desktop\parcial_n°1 - copia\trabajo.h
+	"bici.h"
+
+1589932683 c:\users\lauta\desktop\parcial_n°1 - copia\bici.h
+
+1589777145 source:c:\users\lauta\desktop\parcial_n°1 - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589778122 c:\users\lauta\desktop\parcial_n°1 - copia\utn.h
+
+1589932692 source:c:\users\lauta\desktop\parcial_n°1 - copia\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+
+1589932721 source:c:\users\lauta\desktop\parcial_n°1 - copia\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"trabajo.h"
+	"utn.h"
+
+1589977736 source:c:\users\gabri\desktop\parcial_n°1 - copia\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"trabajo.h"
+	"utn.h"
+
+1589977812 c:\users\gabri\desktop\parcial_n°1 - copia\bici.h
+
+1589932691 c:\users\gabri\desktop\parcial_n°1 - copia\trabajo.h
+	"bici.h"
+
+1589778122 c:\users\gabri\desktop\parcial_n°1 - copia\utn.h
+
+1589977736 source:c:\users\gabri\desktop\parcial_n°1 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"informes.h"
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1589942703 source:c:\users\gabri\desktop\parcial_n°1 - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589947151 source:c:\users\gabri\desktop\parcial_n°1 - copia\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"utn.h"
+
+1589978311 c:\users\gabri\desktop\parcial_n°1 - copia\informes.h
+	"bici.h"
+	"utn.h"
+	"trabajo.h"
+
+1589949402 source:c:\users\gabri\desktop\parcial_n°1 - copia\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"informes.h"
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1589977736 source:c:\users\gabri\desktop\parcial n1 primera parte\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"trabajo.h"
+	"utn.h"
+
+1589981287 c:\users\gabri\desktop\parcial n1 primera parte\bici.h
+
+1589932691 c:\users\gabri\desktop\parcial n1 primera parte\trabajo.h
+	"bici.h"
+
+1589778122 c:\users\gabri\desktop\parcial n1 primera parte\utn.h
+
+1589942703 source:c:\users\gabri\desktop\parcial n1 primera parte\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589980972 source:c:\users\gabri\desktop\parcial n1 primera parte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1589981192 source:c:\users\gabri\desktop\parcial n1 primera parte\bici.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"bici.h"
+	"utn.h"
+
