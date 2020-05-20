@@ -154,7 +154,7 @@
 	<ctype.h>
 	"utn.h"
 
-1589980972 source:c:\users\gabri\desktop\parcial n1 primera parte\main.c
+1589984160 source:c:\users\gabri\desktop\parcial n1 primera parte\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -163,11 +163,26 @@
 	"trabajo.h"
 	"bici.h"
 
-1589981192 source:c:\users\gabri\desktop\parcial n1 primera parte\bici.c
+1589987650 source:c:\users\gabri\desktop\parcial n1 primera parte\bici.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<conio.h>
 	"bici.h"
 	"utn.h"
+
+1589987191 source:c:\users\gabri\desktop\parcial n1 primera parte\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"informes.h"
+	"utn.h"
+	"trabajo.h"
+	"bici.h"
+
+1589986896 c:\users\gabri\desktop\parcial n1 primera parte\informes.h
+	"bici.h"
+	"utn.h"
+	"trabajo.h"
 

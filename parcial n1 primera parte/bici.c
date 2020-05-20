@@ -88,7 +88,6 @@ void printBikes(eBicicleta bicicletas[], int tam, eTipo tipos[], int tamTip,eCol
     printf("\tLista de bicicletas\n\n");
     printf("ID      MARCA        CLIENTES       RODADOS      TIPO       COLOR \n");
 
-    sortBike(bicicletas,tam,tipos,tamTip);
     for(i=0; i<tam; i++)
     {
         if(bicicletas[i].isEmpty==0)
@@ -194,6 +193,7 @@ int findBikeById(int id, eBicicleta bicicletas[],int tam)
 int addBikes(eBicicleta bicicletas[],int tam,eTipo tipos[],int tamTip,eColor color[],int tamCol,eCliente client[],int tamCli)
 {
     eBicicleta auxBicicletas;
+    int auxCliente;
     int retorno=-1;
     float numero;
     int index=findFreespace(bicicletas,tam);///devuelve el indice -1
@@ -221,6 +221,19 @@ int addBikes(eBicicleta bicicletas[],int tam,eTipo tipos[],int tamTip,eColor col
         getValidString("\nIngrese Marca: ","\nError ingrese solo caracteres","\nError se exedio del limite de caracteres\n",auxMarca,1,19);
         strcpy(auxBicicletas.marca,auxMarca);
 
+
+        printf("\nSelecciona el cliente: ");
+        for(int i=0; i<1; i++)
+        {
+            printf("\n11.carlos");
+            printf("\n12.pepito");
+            printf("\n13.tomas");
+            printf("\n14.franco");
+            printf("\n15.zeus");
+        }
+        fflush(stdin);
+        getValidInt("\nIngrese numero: ","\nError dato no valido",11,15,&auxCliente);
+        auxBicicletas.idCliente=auxCliente;
 
 
         printf("\nSelecciona el color: ");
